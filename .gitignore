@@ -208,3 +208,4 @@ __marimo__/
 
 # Added to save hangul.code-workspace file from uploading to remote git repository
 .DS_Store
+*.code-workspace
