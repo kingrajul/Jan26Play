@@ -206,4 +206,5 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Added to save hangul.code-workspace file from uploading to remote git repository
 .DS_Store
